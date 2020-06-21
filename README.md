@@ -1,3 +1,3 @@
 # 3D-Audio-Visualization
 
-![AudioVisualGif](https://i.imgur.com/y9JDRKT.mp4)
+![AudioVisualGif](https://gyazo.com/b568aa862e09e230db126d08f733caea)
